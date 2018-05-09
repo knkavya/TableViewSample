@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  TableViewSample
+
+  Created by Kavya on 09/05/18.
+  Copyright © 2018 Kavya. All rights reserved.
+*/
+
+// MARK: General Localized Strings..
+
+"ApplicationName" = "M2M";
+
+"GENERAL_Empty_String" = "";
+
+"GENERAL_Ok_String" = "OK";
+
+"GENERAL_Save_String" = "Save";
+
+"GENERAL_Cancel_String" = "Cancel";
+
+// MARK : Alert Localized Strings..
+
+"Error_Title_String" = "Error";
+
+"Enter_Name_PlaceHolder_String" = "Enter Name";
+
+"Enter_index_PlaceHolder_String" = "Enter index";
+
+"Add_Name_Title_String" = "Add New Name";
+
+"Edit_Name_Title_String" = "Edit Selected Name";
+
+"Error_Message_String" = "Index is greater than array count.Please enter valid index.";
+
