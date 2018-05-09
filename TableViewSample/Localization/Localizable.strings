@@ -6,7 +6,7 @@
   Copyright © 2018 Kavya. All rights reserved.
 */
 
-// MARK: General Localized Strings..
+// MARK: General Localized Strings.
 
 "ApplicationName" = "M2M";
 
@@ -18,7 +18,7 @@
 
 "GENERAL_Cancel_String" = "Cancel";
 
-// MARK : Alert Localized Strings..
+// MARK : Alert Localized Strings.
 
 "Error_Title_String" = "Error";
 

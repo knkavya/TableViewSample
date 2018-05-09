@@ -14,5 +14,4 @@ extension String {
         let value: String = NSLocalizedString(key, comment: key)
         return value
     }
-    
 }

@@ -8,7 +8,7 @@
 
 import Foundation
 
-// MARK: General Localized Strings..
+// MARK: General Localized Strings.
 
 let kApp_Name = "ApplicationName"
 
@@ -20,7 +20,7 @@ let kGENERAL_Save_String = "GENERAL_Save_String"
 
 let kGENERAL_Cancel_String = "GENERAL_Cancel_String"
 
-// MARK : Alert Localized Strings..
+// MARK : Alert Localized Strings.
 
 let kError_Title_String = "Error_Title_String"
 

@@ -157,11 +157,13 @@ class HomeTableViewController: UITableViewController {
             arrayOfData.append(element!)
         }
         arrayOfData.insert(element!, at: insertingIndex)
+        
         self.tableView.beginUpdates()
         self.tableView.insertRows(at: [IndexPath.init(row: insertingIndex, section: 0)], with: .automatic)
         self.tableView.endUpdates()
     }
     
+    // Alert to show error message  
     func showInvalidIndexAlert() {
         let alert = UIAlertController(title: String.localizedValueForKey(key:kError_Title_String), message: String.localizedValueForKey(key: kError_Message_String), preferredStyle: UIAlertControllerStyle.alert)
         alert.addAction(UIAlertAction(title:String.localizedValueForKey(key:kGENERAL_Ok_string), style: UIAlertActionStyle.default, handler: nil))
